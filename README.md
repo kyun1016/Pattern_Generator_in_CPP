@@ -1,4 +1,4 @@
-# Pattern Generator in C++
+# Pattern Generator using C++
 
 ## 1. Overview
 ![Overview](https://github.com/kyun1016/Pattern_Generator_in_CPP/assets/42373004/1d271730-9e2f-4747-b657-be8d410dd739)
