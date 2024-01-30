@@ -2,8 +2,7 @@
 
 ## 1. Overview
 ![Overview](https://github.com/kyun1016/Pattern_Generator_in_CPP/assets/42373004/1d271730-9e2f-4747-b657-be8d410dd739)
-- Reference
-[VESA and Industry Standards and Guidelines for Computer Display Monitor Timing (DMT)](https://github.com/kyun1016/Pattern_Generator_using_CPP/files/14097083/DMTr1.v13.pdf)
+- Reference : [VESA and Industry Standards and Guidelines for Computer Display Monitor Timing (DMT)](https://github.com/kyun1016/Pattern_Generator_using_CPP/files/14097083/DMTr1.v13.pdf)
 
 ## 2. How to use
 The operating method can be referenced in the 'main.cpp'
